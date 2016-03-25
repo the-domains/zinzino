@@ -1,0 +1,28 @@
+name: Zinzino
+favicon: null
+layout_spectrum: 0.7064340237993747
+typography_spectrum: 0.7728911973536015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36828954704105854
+  lightness: 0.41160744754597545
+  saturation: 0.3545241984538734
+  rhythmicContrast: 0.15761125111021101
+purpose: []
